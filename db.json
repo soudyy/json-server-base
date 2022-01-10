@@ -6,6 +6,33 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "sid@sid.com",
+      "password": "$2a$10$YOgHgvwjpzz1TqLv8qhyouwXo.qmJHT1A0CKy23X0IIG/XHCHachO",
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "id": 1
+    },
+    {
+      "type": "gato",
+      "name": "tulipa",
+      "id": 2
+    }
+  ],
+  "foods": [
+    {
+      "name": "Abacate",
+      "quantity": "3",
+      "id": 1
+    },
+    {
+      "name": "Laranja",
+      "quantity": "4",
+      "id": 2
     }
   ]
 }
