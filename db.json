@@ -15,6 +15,8 @@
   ],
   "animals": [
     {
+      "type": "peixe",
+      "name": "Tilapia",
       "id": 1
     },
     {
