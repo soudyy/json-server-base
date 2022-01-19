@@ -11,30 +11,18 @@
       "email": "sid@sid.com",
       "password": "$2a$10$YOgHgvwjpzz1TqLv8qhyouwXo.qmJHT1A0CKy23X0IIG/XHCHachO",
       "id": 2
-    }
-  ],
-  "animals": [
-    {
-      "type": "peixe",
-      "name": "Tilapia",
-      "id": 1
     },
     {
-      "type": "gato",
-      "name": "tulipa",
-      "id": 2
-    }
-  ],
-  "foods": [
-    {
-      "name": "Abacate",
-      "quantity": "3",
-      "id": 1
+      "email": "cesar@cesar.com",
+      "password": "$2a$10$EHmYWIHGx45caeCrQBTy2OLJ1YzC7.93Id3vXPE4p6FTYtYeSyp1m",
+      "name": "Sidny Silva",
+      "id": 3
     },
     {
-      "name": "Laranja",
-      "quantity": "4",
-      "id": 2
+      "email": "sidny@sid.com",
+      "password": "$2a$10$6Xa6T.jJKZSRcjJtupP16OoTwJhajyHRPDL2k47npKFrC7Sz7LO7u",
+      "name": "Sidny Silva",
+      "id": 4
     }
   ]
 }
